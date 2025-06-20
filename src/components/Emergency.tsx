@@ -1,4 +1,4 @@
-function Home () {
+function Emergency () {
     return(
     <div className="p-6">
       <h1 className="text-2xl font-bold">SyncMedix | One Record. One Care</h1>
@@ -8,4 +8,4 @@ function Home () {
 }
 
 
-export default Home
+export default Emergency
